@@ -1,1 +1,1 @@
-Conflict from branch X
+Resolved conflict from both branches
