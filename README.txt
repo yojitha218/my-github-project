@@ -1,2 +1,1 @@
-This is my first Git repository.
-This repository is created for learning Git basics.
+CONFLICT LINE from FEATURE-A
