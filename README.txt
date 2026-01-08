@@ -1,1 +1,1 @@
-This line is from MASTER branch
+CONFLICT LINE from MASTER
